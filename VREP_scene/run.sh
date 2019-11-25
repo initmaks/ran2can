@@ -1,0 +1,1 @@
+xvfb-run ./vrep.sh -h -s -q ../scene/test_scene.ttt
