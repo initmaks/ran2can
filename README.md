@@ -11,15 +11,15 @@ I did not have a robotic arm, hence it's only trained on box with random objects
 Here is an example of **input, output and ground-truth**:
 
 __*Sim-to-sim - (randomized simulated image to canonical):*__
-![static/simsim.png][static/simsim.png]
-![static/simsim2.png][static/simsim2.png]
+![static/simsim.png](static/simsim.png)
+![static/simsim2.png](static/simsim2.png)
 
 __*Real-to-sim - (real photo to canonical) - :*__
-![static/real2sim.png][static/real2sim.png]
+![static/real2sim.png](static/real2sim.png)
 \* note model has never seen these objects in the scene, hence the noise.
 
 For a reference here are the results from the original paper (they also have a mask generated):
-![static/paperres.png][static/paperres.png]
+![static/paperres.png](static/paperres.png)
 
 # TODO:
 - [ ] Upload requirements.txt
